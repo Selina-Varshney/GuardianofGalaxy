@@ -1,16 +1,18 @@
 # GuardianofGalaxy
 -Selina Varshney
+</br>
 This is an OpenGL based asteroid shooting game, as a Computer Graphics Project.
+</br>
 Game Instructions:
 -> On a galactic journey the alien is provided a life of 100 which decreases by 10 points with every asteroid hit.
 -> Alien is provided a laser beam to destroy asteroids. Every hit gives a score of +1.
 -> Alien can shoot with the mouse, and move using the keys w,a,s,d respectively.
 -> With an increase of score as a multiple of 10 and 3, the speed of asteroids and rotation increases.
 -> Level increases with an increase in score as a multiple of 10.
-
+</br>
 How to run the Project:
 The project is compatible with Microsoft Visual Studio, and built using C++. Ensure the configuration is X86 and run.
-
+</br>
 Screenshots:
 ![image](https://github.com/Selina-Varshney/GuardianofGalaxy/assets/99686864/19bc9729-d66d-4047-a375-a3c3bbda4226)
 
