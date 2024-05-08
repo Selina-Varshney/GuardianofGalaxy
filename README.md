@@ -2,7 +2,7 @@
 -Selina Varshney
 </br>
 </br>
-This is an OpenGL based asteroid shooting game, as a Computer Graphics Project.
+This is an OpenGL based asteroid shooting game for Computer Graphics Course Project.
 </br>
 </br>
 Game Instructions:
@@ -24,6 +24,7 @@ The project is compatible with Microsoft Visual Studio, and built using C++. Ens
 </br>
 </br>
 Screenshots:
+</br>
 </br>
 ![image](https://github.com/Selina-Varshney/GuardianofGalaxy/assets/99686864/19bc9729-d66d-4047-a375-a3c3bbda4226)
 
