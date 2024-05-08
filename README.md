@@ -24,6 +24,7 @@ The project is compatible with Microsoft Visual Studio, and built using C++. Ens
 </br>
 </br>
 Screenshots:
+</br>
 ![image](https://github.com/Selina-Varshney/GuardianofGalaxy/assets/99686864/19bc9729-d66d-4047-a375-a3c3bbda4226)
 
 ![image](https://github.com/Selina-Varshney/GuardianofGalaxy/assets/99686864/8c32bd19-4bbd-4f51-af04-de16ccdc31e1)
